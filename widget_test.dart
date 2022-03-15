@@ -13,4 +13,4 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
 
 
 void main() {
-  testWidgets('Counter increments smoke test', (Widget
+  testWidgets('Counter increments smoke test', (WidgetT
