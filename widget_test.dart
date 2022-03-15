@@ -19,4 +19,4 @@ void main() {
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
-    expect(find.
+    expect(find
