@@ -25,4 +25,5 @@ void main() {
     await tester.tap(find.byIcon(Icons.add));
     await tester.pump();
 
-    // Verify that our counter has increme
+    // Verify that our counter has incremented.
+  
