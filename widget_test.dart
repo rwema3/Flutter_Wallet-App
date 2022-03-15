@@ -18,4 +18,4 @@ void main() {
     await tester.pumpWidget(App());
 
     // Verify that our counter starts at 0.
-    expect(find.text('0'), find
+    expect(find.text('0'), fin
