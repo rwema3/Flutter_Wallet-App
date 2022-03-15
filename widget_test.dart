@@ -17,4 +17,4 @@ void main() {
     // Build our app and trigger a frame.
     await tester.pumpWidget(App());
 
-    // Verify that ou
+    // Verify that o
