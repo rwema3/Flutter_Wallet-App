@@ -26,4 +26,4 @@ void main() {
     await tester.pump();
 
     // Verify that our counter has incremented.
-    expect(find
+    expect(fin
