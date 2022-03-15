@@ -12,8 +12,3 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
 
 
 
-void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(App());
-
