@@ -12,5 +12,4 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
 
 
 
-void main() {
-  
+void main()
