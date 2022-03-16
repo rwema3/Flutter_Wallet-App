@@ -19,4 +19,3 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
 
     // Tap the '+' icon and trigger a frame.
     await tester.tap(find.byIcon(Icons.add))
-    await tester.pump();
