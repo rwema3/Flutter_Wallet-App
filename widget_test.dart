@@ -22,7 +22,7 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
     await tester.pump();
 
 
-    expect(find.text('0'), findsNothing);
+
     expect(find.text('1'), findsOneWidget);
   });
 }
