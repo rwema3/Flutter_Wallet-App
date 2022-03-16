@@ -17,6 +17,10 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
     // Build our app and trigger a frame.
     await tester.pumpWidget(App());
 
+    // Verify that our counter starts at 0.
+
+
+
     // Tap the '+' icon and trigger a frame.
     await tester.tap(find.byIcon(Icons.add))
     await tester.pump();
