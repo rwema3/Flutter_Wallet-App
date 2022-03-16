@@ -17,7 +17,7 @@ import 'package:flutter_wallet_ui_challenge/src/app.dart';
     // Build our app and trigger a frame.
     await tester.pumpWidget(App());
 
-    // Verify that our counter starts at 0.
+
 
 
 
