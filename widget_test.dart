@@ -1,4 +1,4 @@
-// This is a basic Flutter widge
+// This is a basic Flutter widg
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_wallet_ui_challenge/src/app.dart';
