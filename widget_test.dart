@@ -1,4 +1,4 @@
-// This is a basic Flutter widget te
+// This is a basic Flutter widget tes
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_wallet_ui_challenge/src/app.dart';
