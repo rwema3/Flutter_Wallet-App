@@ -1,7 +1,7 @@
 // This is a basic Flutter widget test.
 //
 // To perform an interaction with a widget in your test, use the WidgetTester
-// utple, you can send tap
+// utple, you can send ta
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_wallet_ui_challenge/src/app.dart';
