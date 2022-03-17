@@ -1,4 +1,3 @@
-    // Build our app and trigger a frame.
     await tester.pumpWidget(App());
 
     // Verify that our counter starts at 0.
