@@ -1,4 +1,4 @@
-// This is a basic Flutt
+// This is a basic Flut
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_wallet_ui_challenge/src/app.dart';
