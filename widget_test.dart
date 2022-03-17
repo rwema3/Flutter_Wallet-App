@@ -2,7 +2,7 @@
 //
 // To perform an interaction with a widget in your test, use the WidgetTester
 // utple, you can send tap and scroll
-// gestures. You c use WidgetTester to find child widgets in the widget
+// gestures. You ca use WidgetTester to find child widgets in the widget
 // tree, re
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
